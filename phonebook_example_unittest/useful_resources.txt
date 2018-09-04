@@ -1,0 +1,47 @@
+HELPFUL RESOURCES
+
+https://stackoverflow.com/questions/9271464/what-does-the-file-variable-mean-do
+https://stackoverflow.com/questions/7783308/os-path-dirname-file-returns-empty
+
+**********************************************************************************************************
+Unit Tests
+**********************************************************************************************************
+https://www.pluralsight.com/courses/unit-testing-python?gclid=CjwKCAjwt7PcBRBbEiwAfwfVGOHyZ-OwM26LQChR9a8L-NoHgzXQO8MA0xM15vxlAesKI4F6QN0cjhoCgZAQAvD_BwE&aid=7010a000002BWqBAAW&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=NASA_Dynamic&utm_content=&pbb2c=1&s_kwcid=AL!5668!3!277727473334!b!!g!!&ef_id=W1WzVAAABRFLuj33:20180903105707:s
+https://github.com/learningequality/ka-lite/wiki/Guide:-Writing-unit-tests---Part-1
+https://github.com/learningequality/ka-lite/wiki/Guide:-Writing-unit-tests-Part-2
+https://medium.com/python-pandemonium/python-mocking-you-are-a-tricksy-beast-6c4a1f8d19b2
+https://medium.com/python-pandemonium/mocking-has-a-weakness-speccing-removes-it-2d2068a17df8
+https://www.toptal.com/python/an-introduction-to-mocking-in-python
+
+
+TO STUDY
+
+
+https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832
+https://docs.python-guide.org/writing/tests/
+https://dev.to/perigk/a-comprehensive-introduction-to-unit-testing-and-mocking-with-python3-624
+https://testfixtures.readthedocs.io/en/latest/files.html
+https://blog.fossasia.org/tag/python-unittest-library/
+http://tangothu.github.io/blog/2016/12/18/python-how-to-assert-method-is-called-in-unit-test/
+https://docs.python.org/2/library/contextlib.html
+
+https://www.obeythetestinggoat.com/book/chapter_mocking.html
+https://docs.python.org/3/library/unittest.mock.html
+https://docs.python.org/3/library/unittest.mock-examples.html
+http://www.voidspace.org.uk/python/mock/patch.html#patch
+http://www.voidspace.org.uk/python/mock/mock.html
+
+
+https://docs.python.org/2/library/unittest.html
+https://docs.djangoproject.com/en/dev/topics/testing/overview/
+
+
+WHATEVER
+
+https://stackoverflow.com/questions/32748212/how-to-test-a-function-that-creates-a-directory
+https://pypi.org/project/mock/
+https://has207.github.io/flexmock/
+https://stackoverflow.com/questions/37159714/python-creating-a-mock-or-fake-directory-with-files-for-unittesting/37161270
+https://gist.github.com/odyniec/d4ea0959d4e0ba17a980
+https://docs.python.org/2/library/os.path.html
+
